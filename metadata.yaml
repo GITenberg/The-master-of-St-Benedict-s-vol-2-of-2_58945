@@ -1,11 +1,16 @@
 _repo: The-master-of-St-Benedict-s-vol-2-of-2_58945
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58945-h/images/cover.jpg
 creator:
   author:
     agent_name: Aubyn, Alan St.
     gutenberg_agent_id: '50202'
     url: http://www.gutenberg.org/2009/agents/50202
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58945#The-master-of-St-Benedict-s-vol-2-of-2
 gutenberg_issued: '2019-02-23'
 gutenberg_type: Text
 identifiers:
